@@ -33,5 +33,10 @@ slack = slackweb.Slack(url="コピーしたwebhook URL")
 slack.notify(text="hogehoge")
 
 ----------------------------------------
+# GUI
+- [PyQt](http://myenigma.hatenablog.com/entry/2016/01/24/113413)
 
+----------------------------------------
+# exeのビルド
+- [PyInstller](http://retrofocus28.blogspot.jp/2013/10/pyinstallerexe.html)
 
