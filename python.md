@@ -40,3 +40,7 @@ slack.notify(text="hogehoge")
 # exeのビルド
 - [PyInstller](http://retrofocus28.blogspot.jp/2013/10/pyinstallerexe.html)
 
+----------------------------------------
+# 正規表現
+import re
+
